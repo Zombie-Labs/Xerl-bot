@@ -28,15 +28,6 @@
 - [Git](https://git-scm.com/downloads)
 - [MongoDB](https://www.mongodb.com)
 
-## 🚀 Getting Started
-
-- Open the terminal and run the following commands
-
-```
-git clone https://github.com/friday2su/discord-js-bot.git
-cd discord-js-bot
-npm install
-```
 
 - Wait for all the dependencies to be installed
 - Rename `.env.example` to `.env` and fill the values
@@ -144,5 +135,5 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 <h1 align="center"> 🤝 Contributing 🤝 </h1>
 
 - Special thanks to [@saiteja-madha](https://github.com/saiteja-madha/) the owner of this code.
-- Feel free to [Fork](https://github.com/friday2su/All-In-One-Bot/fork) this repository, create a feature branch and submit a pull request
+- Feel free to [Fork](https://github.com/Zombie-Labs/Xerl-bot) this repository, create a feature branch and submit a pull request
 - You can keep track of all the planned features [here](https://github.com/friday2su/All-In-One-Bot/projects) or make a request for one at our discord
